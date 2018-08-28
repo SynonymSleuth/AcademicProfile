@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SS Academic Profile"
+title                    : "SS Academic"
 title_separator          : "-"
 name                     : &name "Synonym Sleuth"
 description              : &description "personal description"
